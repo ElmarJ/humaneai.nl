@@ -1,19 +1,19 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
-  shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
-  siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteTitle: "Bèta Gamma-blog Human(e) AI 2021", // <title>
+  shortSiteTitle: "Human(e) AI 2021", // <title> ending for posts and pages
+  siteDescription: "Een verzameling van blogs over AI, geschreven door studenten van de opleiding Bèta Gamma aan de Universiteit van Amsterdam",
+  siteUrl: "https://humaneai.nl",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "elmar jansen",
+  authorTwitterAccount: "elmarj",
   // info
-  infoTitle: "greg lobinski",
-  infoTitleNote: "personal blog",
+  infoTitle: "Human(e) AI",
+  infoTitleNote: "Blog 2021",
   // manifest.json
   manifestName: "PersonalBlog - a blog starter for GatsbyJS",
   manifestShortName: "PersonalBlog", // max 12 characters
@@ -22,11 +22,10 @@ module.exports = {
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "john@doe.com",
+  contactEmail: "e.f.jansen@uva.nl",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "https://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/elmarj/humaneai.nl" },
+    { name: "facebook", url: "https://www.facebook.com/groups/688688937901464" }
   ]
 };

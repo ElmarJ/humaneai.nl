@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer too, but now I concentrate on the code.
+Een verzameling van blogs over AI, geschreven door studenten van de opleiding Bèta Gamma aan de Universiteit van Amsterdam
