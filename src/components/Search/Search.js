@@ -78,30 +78,16 @@ const styles = theme => ({
 });
 
 const Search = props => {
-  const { classes, algolia } = props;
+  const { classes } = props;
 
   return (
     <div className={classes.search}>
-      {algolia &&
-        algolia.appId && (
-          <InstantSearch
-            appId={algolia.appId}
-            apiKey={algolia.searchOnlyApiKey}
-            indexName={algolia.indexName}
-          >
-            <SearchBox translations={{ placeholder: "Search" }} />
-            <Stats />
-            <Hits hitComponent={Hit} />
-            <Pagination />
-          </InstantSearch>
-        )}
     </div>
   );
 };
 
 Search.propTypes = {
   classes: PropTypes.object.isRequired,
-  algolia: PropTypes.object.isRequired
 };
 
 export default injectSheet(styles)(Search);

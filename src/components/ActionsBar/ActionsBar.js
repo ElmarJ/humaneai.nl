@@ -97,8 +97,7 @@ class ActionsBar extends React.Component {
   }
 
   homeOnClick = featureNavigator.bind(this);
-  searchOnClick = moveNavigatorAside.bind(this);
-
+  
   fullscreenOnClick = () => {
     if (screenfull.enabled) {
       screenfull.toggle();
@@ -138,17 +137,6 @@ class ActionsBar extends React.Component {
           {((isWideScreen && navigatorShape === "open") || navigatorPosition !== "is-aside") && (
             <CategoryFilter categories={categories} filterCategory={this.categoryFilterOnClick} />
           )}
-          <IconButton
-            aria-label="Search"
-            onClick={this.searchOnClick}
-            component={Link}
-            data-shape="closed"
-            to="/search/"
-            title="Search"
-            className={classes.button}
-          >
-            <SearchIcon className={classes.button} />
-          </IconButton>
         </div>
         <div className={classes.group}>
           {navigatorPosition === "is-aside" && <FontSetter increaseFont={this.fontSetterOnClick} />}
