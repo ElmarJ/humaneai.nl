@@ -3,7 +3,7 @@ category: BlogPost
 path: /deepfake
 subTitle: Marloes, Noah, Thijmen & Stijn
 title: Deepfake-video’s - Hoe een nieuwe technologische ontwikkeling het publieke debat voor altijd zou kunnen veranderen  
-cover: 
+cover: deepfake.jpeg
 metaDescription: De koninklijke familie klaar met de coronamaatregelen?! Een nieuw, uitgelekt filmpje gaat viraal. Binnen twee uur al een miljoen keer bekeken op Dumpert en op Twitter staat het binnen de kortste keren bovenaan de Trending-lijst. 
 ---
 

@@ -3,7 +3,7 @@ category: BlogPost
 path: /singularity
 subTitle: Sam, Mas & Tom
 title: Technological Singularity
-cover: 
+cover: singularity.jpg
 metaDescription: Wat als ziektes niet meer bestonden, de mens onsterfelijk zou zijn of jij op ieder moment van de dag gelukkig zou zijn? Deze kwesties lijken ver buiten de werkelijkheid te liggen, maar zijn steeds realistischer aan het worden. 
 ---
 

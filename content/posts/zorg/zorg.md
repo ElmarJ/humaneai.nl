@@ -3,7 +3,7 @@ category: BlogPost
 path: /zorg
 subTitle: Bram, Elize & Gioia
 title: Robots - De toekomst van de zorg? 
-cover: 
+cover: zorg.jpeg
 metaDescription: De koninklijke familie klaar met de coronamaatregelen?! Een nieuw, uitgelekt filmpje gaat viraal. Binnen twee uur al een miljoen keer bekeken op Dumpert en op Twitter staat het binnen de kortste keren bovenaan de Trending-lijst. 
 ---
 

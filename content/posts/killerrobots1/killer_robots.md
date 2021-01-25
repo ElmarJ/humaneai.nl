@@ -3,7 +3,7 @@ category: BlogPost
 path: /killerrobot1
 subTitle: Casper, Hannah, Luna & Isa
 title: De toekomst van de ijzeren gedrochten. 
-cover: 
+cover: killerrobots3.jpeg
 metaDescription: Je zou bijna denken ‘Killer robots, waarom niet?’ Echter blijkt het niet minder waar dat elk voordeel zijn nadeel heeft.  
 ---
 
