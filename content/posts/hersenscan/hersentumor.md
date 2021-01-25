@@ -1,7 +1,7 @@
 ---
 category: BlogPost
 path: /hersenscan
-subTitle: 
+subTitle: Steven, Joost, Puck & Pepijn
 title: Wedstrijdje hersentumor zoeken
 cover: hersentumor.png
 metaDescription: Nep hersenscans maken met Generative Adverserial Networks  
