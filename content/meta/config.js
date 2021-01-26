@@ -7,7 +7,7 @@ module.exports = {
   siteUrl: "https://humaneai.nl",
   pathPrefix: "",
   siteImage: "preview.jpg",
-  siteLanguage: "en",
+  siteLanguage: "nl",
   // author
   authorName: "elmar jansen",
   authorTwitterAccount: "elmarj",
@@ -15,8 +15,8 @@ module.exports = {
   infoTitle: "Human(e) AI",
   infoTitleNote: "Blog 2021",
   // manifest.json
-  manifestName: "PersonalBlog - a blog starter for GatsbyJS",
-  manifestShortName: "PersonalBlog", // max 12 characters
+  manifestName: "Bèta Gamma-blog Human(e) AI 2021",
+  manifestShortName: "Human(e) AI Blog", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,
   manifestThemeColor: colors.background,
