@@ -1,6 +1,6 @@
 # Humaneai.nl
 
-Blog van Human(e) AI bij Bèta-Gamma aan de UvA.
+Blog van Human(e) AI bij Bèta-Gamma aan de UvA: [humaneai.nl](https://humaneai.nl).
 
 Werkt met:
 - [GatsbyJS](https://www.gatsbyjs.org/)
